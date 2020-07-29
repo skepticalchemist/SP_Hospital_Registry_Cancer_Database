@@ -16,6 +16,6 @@ Pediatric tumors differ in location and morphology to tumors in adults and can b
 
 The above information was adapted from the FOSP.
 
-This notebook presents an exploratory data analysis of the mentioned dataset and will include soon a data cleaning section intended to make the dataset more machine learnable.
+This notebook presents an exploratory data analysis (EDA) of the mentioned dataset and will include soon a data cleaning section intended to make the dataset more machine learnable.
 
 I started this short joint project at [Information Technology Center Renato Archer](https://www.cti.gov.br/).
