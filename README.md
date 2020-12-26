@@ -19,3 +19,11 @@ The above information was adapted from the FOSP.
 This notebook presents an exploratory data analysis (EDA) of the mentioned dataset and will include soon a data cleaning section intended to make the dataset more machine learnable.
 
 I started this short joint project at [Information Technology Center Renato Archer](https://www.cti.gov.br/).
+
+Libraries used in this project:
+* `numpy`
+* `pandas`
+* `matplotlib`
+* `missingno`
+* `simpledbf`
+* `datetime`
