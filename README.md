@@ -21,9 +21,9 @@ This notebook presents an exploratory data analysis (EDA) of the mentioned datas
 I started this joint project at [Information Technology Center Renato Archer](https://www.cti.gov.br/). 
 
 Team members:
-*[Dr. Mariângela Dametto](https://www.linkedin.com/in/mariangela-dametto-16368644/)
-*[Dr. Rodrigo Bonacin](https://www.linkedin.com/in/rodrigobonacin/)
-*[Dr. Sergio M. Vechi](www.linkedin.com/in/sergiovechi)
+* [Dr. Mariângela Dametto](https://www.linkedin.com/in/mariangela-dametto-16368644/)
+* [Dr. Rodrigo Bonacin](https://www.linkedin.com/in/rodrigobonacin/)
+* [Dr. Sergio M. Vechi](www.linkedin.com/in/sergiovechi)
 
 Libraries used in this project:
 * `numpy`
